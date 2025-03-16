@@ -1,5 +1,7 @@
 # AI-Powered Assistive Technology: Helping Visually Impaired Individuals
 
+![Project Image](https://github.com/babban52/AI-Powered-Assistive-Technology-Helping-Visually-Impaired-Individuals/blob/main/8ab45b16-eaef-4e12-b680-eeff2883bb15.jpeg)
+
 ## Project Overview
 
 Drishti is an AI-powered assistive technology designed to help visually impaired individuals by providing real-time object detection and scene description. The system captures images from the surroundings, identifies objects using computer vision techniques, and conveys the information through audio cues, thereby enhancing situational awareness and navigation capabilities.
