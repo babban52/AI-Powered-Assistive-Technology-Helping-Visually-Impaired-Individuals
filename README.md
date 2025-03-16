@@ -1,6 +1,6 @@
 # AI-Powered Assistive Technology: Helping Visually Impaired Individuals
 
-![Project Image](https://github.com/babban52/AI-Powered-Assistive-Technology-Helping-Visually-Impaired-Individuals/blob/main/8ab45b16-eaef-4e12-b680-eeff2883bb15.jpeg)
+![Project Image](https://github.com/babban52/AI-Powered-Assistive-Technology-Helping-Visually-Impaired-Individuals/blob/main/picture.jpeg)
 
 ## Project Overview
 
