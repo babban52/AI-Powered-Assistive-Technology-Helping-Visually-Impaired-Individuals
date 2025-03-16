@@ -1,4 +1,4 @@
-# Drishti: AI-Powered Assistive Technology: Helping Visually Impaired Individuals
+# Drishti: AI-Powered Assistive Technology [ Helping Visually Impaired Individuals ]
 
 ![Project Image](https://github.com/babban52/AI-Powered-Assistive-Technology-Helping-Visually-Impaired-Individuals/blob/main/picture)
 
